@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "CarritoCompra"
+  "defaultProject": "CarritoCompra",
+  "cli": {
+    "analytics": false
+  }
 }
