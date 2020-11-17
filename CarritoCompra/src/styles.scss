@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import 'Themes/themeWhite.scss';
+@include angular-material-theme($light-theme);
+
+
