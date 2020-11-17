@@ -1,1 +1,1 @@
-# Proyecto-Angular-MiniCarrito-Compra
+# Proyecto Angular Carrito Compra
